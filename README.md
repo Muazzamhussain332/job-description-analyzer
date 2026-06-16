@@ -32,4 +32,4 @@ jupyter lab job_description_analyzer.ipynb
 | Jupyter | Interactive output with markdown rendering |
 
 ---
-Built by [Muazzam Hussain](https://www.linkedin.com/in/moazzam-hussain) — Agentic AI & RAG Systems Builder
+Built by [Muazzam Hussain](https://www.linkedin.com/in/muazzam-ai-builder) — Agentic AI & RAG Systems Builder
